@@ -1,8 +1,11 @@
 Hey everyone 👋
 
-I started my career wanting to be a physical therapist. Now I work in healthcare technology. Working everyday to make myself more skilled and knowledgeable. 
+I started my career wanting to be a physical therapist. Couldn't believe how far behind the health system was. Now I work in healthcare technology, trying to help make a difference. 
 
-- 🔭 I’m currently working on case studies focused on adoption of technology in healthcare 🌱 I’m currently learning: dbt, Snowflake, and product management
+Working everyday to make myself more skilled and capable. 
+
+- 🔭 I’m currently working on: case studies focused on adoption of technology in healthcare 
+- 🌱 I’m currently learning: dbt, Snowflake, and product management
 - 💬 Ask me about healthcare technology, data and startups
 - 📫 How to reach me: haws@hey.com
 - 🗞️ Blog: https://world.hey.com/haws
