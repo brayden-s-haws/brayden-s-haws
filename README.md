@@ -1,6 +1,6 @@
 Hey everyone 👋
 
-I started my career wanting to be a physical therapist. Couldn't believe how far behind the health system was. Now I work in healthcare technology, trying to make a difference. 
+Started my career wanting to be a physical therapist. Fell in love with technology. Couldn't believe how poorly it was utilized in healthcare. Now I work in healthcare technology, trying to make a difference. 
 
 Working everyday to make myself more skilled and capable. 
 
