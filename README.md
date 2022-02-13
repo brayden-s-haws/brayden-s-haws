@@ -7,7 +7,7 @@ Working everyday to make myself more skilled and capable. When I am not working 
 - 🛠 I’m currently working on: case studies on how to do healthcare tech right
 - 🔍 I’m currently learning: dbt, Snowflake, and product management
 - 💬 Ask me about healthcare technology, data, and startups
-- ⏪ Previously: University of Utah Health, Steward Healthcare, Lucerna Health
+- ⏪ Previously: University of Utah Health, Steward Health Care, Lucerna Health
 - 📫 How to reach me: haws@hey.com
 - 🗞️ Blog: https://world.hey.com/haws
 - 🪚 Other Stuff: https://haws-links.glitch.me
