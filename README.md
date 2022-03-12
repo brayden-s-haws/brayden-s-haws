@@ -1,12 +1,12 @@
 Hey everyone 👋
 
-Started my career wanting to be a physical therapist. Fell in love with technology. Now I work in healthcare technology, trying to make a difference. 
+Started my career wanting to be a physical therapist. Fell in love with technology. Now I do product for healthcare tech. 
 
-Working everyday to make myself more skilled and capable. When I am not working I am probably hiking or building something.
+Working everyday to make myself more skilled and capable. When I am not working, I am probably hanging with my family, hiking or building.
 
-- 🛠 I’m currently working on: case studies on how to do healthcare tech right
-- 🔍 I’m currently learning: dbt, Snowflake, and product management
-- 💬 Ask me about healthcare technology, data, and startups
+- 🛠 I’m currently working on: product and technology research
+- 🔍 I’m currently learning: dbt, healthcare operations, and product management
+- 💬 Ask me about: healthcare technology, data, and startups
 - ⏪ Previously: University of Utah Health, Steward Health Care, Lucerna Health
 - 📫 How to reach me: haws@hey.com
 - 🗞️ Blog: https://world.hey.com/haws
