@@ -1,6 +1,6 @@
 Hey everyone 👋
 
-Started my career wanting to make healthcare better. Fell in love with technology. Now I do product for tech. 
+Started my career wanting to make healthcare better. Fell in love with technology. Now I do product. 
 
 Working everyday to make myself more skilled and capable. When I am not working, I am probably hanging with my family, hiking or building.
 
