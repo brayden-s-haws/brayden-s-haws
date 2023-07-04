@@ -13,8 +13,7 @@ Working everyday to make myself more skilled and capable. When I am not working,
 - 🪚 Other Stuff: https://braydenhaws.com
 - 🍔 Fun fact: I once ate breakfast with Cheech Marin at an airport Burger King
 
-<br />
-<br />
+***
 
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
@@ -24,8 +23,7 @@ Latest Blog Posts:
 - [All Smoke, No Fire: The Failure of the Amazon Fire Phone](https://world.hey.com/haws/all-smoke-no-fire-the-failure-of-the-amazon-fire-phone-64e7510e)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-<br />
+***
 
 <p align="left">Languages and Tools:</p>
 <p align="left">   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
