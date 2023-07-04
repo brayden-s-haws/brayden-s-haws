@@ -10,7 +10,7 @@ Working everyday to make myself more skilled and capable. When I am not working,
 - ⏪ Previously: University of Utah Health, Steward Health Care, Lucerna Health, Hospital IQ
 - 📫 How to reach me: haws@hey.com
 - 🗞️ Blog: https://world.hey.com/haws
-- 🪚 Other Stuff: https://braydenhaws.com
+- 🪚 Other stuff: https://braydenhaws.com
 - 🍔 Fun fact: I once ate breakfast with Cheech Marin at an airport Burger King
 
 ***
