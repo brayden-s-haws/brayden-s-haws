@@ -13,6 +13,10 @@ Working everyday to make myself more skilled and capable. When I am not working,
 - 🪚 Other Stuff: https://braydenhaws.com
 - 🍔 Fun fact: I once ate breakfast with Cheech Marin at an airport Burger King
 
+Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 <p align="left">Languages and Tools:</p>
