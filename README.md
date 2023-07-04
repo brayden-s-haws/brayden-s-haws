@@ -12,7 +12,7 @@ Working everyday to make myself more skilled and capable. When I am not working,
 - 🗞️ Blog: https://world.hey.com/haws
 - 🪚 Other Stuff: https://braydenhaws.com
 - 🍔 Fun fact: I once ate breakfast with Cheech Marin at an airport Burger King
-<br />
+
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [The Anti-Frameworks Framework](https://world.hey.com/haws/the-anti-frameworks-framework-22bd9b9a)
@@ -20,7 +20,7 @@ Latest Blog Posts:
 - [All Smoke, No Fire: The Failure of the Amazon Fire Phone](https://world.hey.com/haws/all-smoke-no-fire-the-failure-of-the-amazon-fire-phone-64e7510e)
 - [Scratchpad Scribbles: Staring Into The Dip](https://world.hey.com/haws/scratchpad-scribbles-staring-into-the-dip-e4d94725)
 <!-- BLOG-POST-LIST:END -->
-<br />
+
 
 
 <p align="left">Languages and Tools:</p>
