@@ -6,7 +6,7 @@ Working everyday to make myself more skilled and capable. When I am not working,
 
 - 🛠 I’m currently working on: [Utah Product Guild](https://utahproductguild.com)
 - 📰 Recently created: The [PM A.M. Newsletter](https://pmnews.today)
-- 🔍 I’m currently learning: python, data visualization, and copywriting
+- 🔍 I’m currently learning: python, data visualization, and machine learning
 - 💬 Ask me about: product stategy, data, and startups
 - ⏪ Previously: University of Utah Health, Steward Health Care, Lucerna Health, Hospital IQ
 - 📫 How to reach me: haws@hey.com
