@@ -5,7 +5,7 @@ Started my career wanting to make healthcare better. Fell in love with technolog
 Working everyday to make myself more skilled and capable. When I am not working, I am probably hanging with my family, exploring, or building.
 
 - ⚒️ I’m currently working on: [Utah Product Guild](https://utahproductguild.com)
-- 📰 I currently "write": The [PM A.M. Newsletter](https://pmnews.today)
+- 📰 I currently "write": [The PM A.M. Newsletter](https://pmnews.today)
 - 🔍 I’m currently learning: python, data visualization, and machine learning
 - 💬 Ask me about: product stategy, data, and startups
 - ⏪ Previously: University of Utah Health, Steward Health Care, Lucerna Health, Hospital IQ
