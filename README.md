@@ -8,7 +8,7 @@ Working everyday to make myself more skilled and capable. When I am not working,
 - 📰 I currently "write": [The PM A.M. Newsletter](https://pmnews.today)
 - 📖 I curate PM resources: [The Patchwork PM Bible](https://haws.gumroad.com/l/pmbible)
 - 🔍 I’m currently learning: python, data visualization, and machine learning
-- 💬 Ask me about: product stategy, data, and startups
+- 💬 Ask me about: product strategy, data, and startups
 - ⏪ Previously: University of Utah Health, Steward Health Care, Lucerna Health, Hospital IQ
 - 📫 How to reach me: haws@hey.com
 - 🗞️ Blog: https://world.hey.com/haws
