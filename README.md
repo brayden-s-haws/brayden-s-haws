@@ -2,7 +2,7 @@ Hey everyone 👋
 
 Started my career wanting to make healthcare better. Fell in love with technology. Now I do product. 
 
-Working everyday to make myself more skilled and capable. When I am not working, I am probably on adevntures with my family, exploring, or building.
+Working everyday to make myself more skilled and capable. When I am not working, I am probably on adventures with my family, exploring, or building.
 
 - ⚒️ I’m currently working on: [Utah Product Guild](https://utahproductguild.com)
 - 📰 I currently "write": [The PM A.M. Newsletter](https://pmnews.today)
