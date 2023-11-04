@@ -19,10 +19,10 @@ Working everyday to make myself more skilled and capable. When I am not working,
 
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [One AI to Rule Them All?](https://world.hey.com/haws/one-ai-to-rule-them-all-5ef0ac01)
 - [What Can Product Managers Learn from a Levi’s Salesman?](https://world.hey.com/haws/what-can-product-managers-learn-from-a-levi-s-salesman-5ef456c7)
 - [I Taught a Robot to Read the News So I Don’t Have To](https://world.hey.com/haws/i-taught-a-robot-to-read-the-news-so-i-don-t-have-to-e2e4e2ae)
 - [A Convict&#39;s Guide to Mastering Product Management Communication](https://world.hey.com/haws/a-convict-s-guide-to-mastering-product-management-communication-65452fa2)
+- [The Anti-Frameworks Framework](https://world.hey.com/haws/the-anti-frameworks-framework-22bd9b9a)
 <!-- BLOG-POST-LIST:END -->
 
 ***
