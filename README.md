@@ -7,6 +7,7 @@ Working everyday to make myself more skilled and capable. When I am not working,
 - ⚒️ I’m currently working on: [Utah Product Guild](https://utahproductguild.com)
 - 📰 I currently "write": [The PM A.M. Newsletter](https://pmnews.today)
 - 📖 My curated PM resources: [The Patchwork PM Bible](https://haws.gumroad.com/l/pmbible)
+- 🎙️ I built a fast and easy text-to-speech tool: [SpeakEasy](https://speak-easy.replit.app)
 - 🔍 I’m currently learning: python, data visualization, and machine learning
 - 💬 Ask me about: product strategy, data, and startups
 - ⏪ Previously: University of Utah Health, Steward Health Care, Lucerna Health, Hospital IQ
