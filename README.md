@@ -20,7 +20,7 @@ Working everyday to make myself more skilled and capable. When I am not working,
 
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [AI: Automated Intelligence](https://world.hey.com/haws/ai-automated-intelligence-1b27c2fe)
+- [AI: Automated Intelligence](https://world.hey.com/haws/ai-automated-intelligence-3ed6f3e6)
 - [How I Do Product](https://world.hey.com/haws/how-i-do-product-9d3b3bb8)
 - [The Rise of the AI Product Manager](https://world.hey.com/haws/the-rise-of-the-ai-product-manager-a44ec3e0)
 - [What Can Product Managers Learn from a Levi’s Salesman?](https://world.hey.com/haws/what-can-product-managers-learn-from-a-levi-s-salesman-5ef456c7)
