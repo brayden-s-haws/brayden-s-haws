@@ -20,7 +20,7 @@ Working everyday to make myself more skilled and capable. When I am not working,
 
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Unseen Opportunities in AI](https://world.hey.com/haws/unseen-opportunities-in-ai-ee236a16)
+- [Uncovering Opportunities in AI](https://world.hey.com/haws/uncovering-opportunities-in-ai-ee236a16)
 - [The AI Treadmill](https://world.hey.com/haws/the-ai-treadmill-ac5de975)
 - [Build For Everything Else](https://world.hey.com/haws/build-for-everything-else-cb26e5d7)
 - [AI: Automated Intelligence](https://world.hey.com/haws/ai-automated-intelligence-3ed6f3e6)
