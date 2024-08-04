@@ -18,10 +18,10 @@ Working everyday to make myself more skilled and capable. When I am not working,
 
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The AI Time Machine](https://world.hey.com/haws/the-ai-time-machine-7833669d)
 - [When AI Draws the Owl](https://world.hey.com/haws/when-ai-draws-the-owl-fbb4dc38)
 - [Uncovering Opportunities in AI](https://world.hey.com/haws/uncovering-opportunities-in-ai-ee236a16)
 - [The AI Treadmill](https://world.hey.com/haws/the-ai-treadmill-ac5de975)
-- [Build For Everything Else](https://world.hey.com/haws/build-for-everything-else-cb26e5d7)
 <!-- BLOG-POST-LIST:END -->
 
 ***
