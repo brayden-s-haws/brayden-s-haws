@@ -8,7 +8,7 @@ Working everyday to make myself more skilled and capable. When I am not working,
 - 📰 I currently "write": [The PM A.M. Newsletter](https://pmnews.today)
 - 🔍 I’m currently learning: python, generative ai, and machine learning
 - 💬 Ask me about: ai, data, and startups
-- ⏪ Previously: University of Utah Health, Steward Health Care, Lucerna Health, Hospital IQ
+- ⏪ Previously: University of Utah Health, Steward Health Care, Lucerna Health, Hospital IQ, Grow/Epicor
 - 📫 How to reach me: haws@hey.com
 - 🗞️ Blog: https://world.hey.com/haws
 - 🪚 Other stuff: https://braydenhaws.com
