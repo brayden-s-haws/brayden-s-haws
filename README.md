@@ -17,10 +17,10 @@ Working everyday to make myself more skilled and capable. When I am not working,
 
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Notes: Platform Ecosystems and Generative AI](https://world.hey.com/haws/notes-platform-ecosystems-and-generative-ai-949643cf)
 - [AI Disruptions: Grammarly vs Apple Intelligence](https://world.hey.com/haws/ai-disruptions-grammarly-vs-apple-intelligence-45c7790b)
 - [The Power of Product Management Logs](https://world.hey.com/haws/the-power-of-product-management-logs-90074b85)
 - [AI Rewrites Technical Work](https://world.hey.com/haws/ai-rewrites-technical-work-e88591c6)
-- [The AI Time Machine](https://world.hey.com/haws/the-ai-time-machine-7833669d)
 <!-- BLOG-POST-LIST:END -->
 
 ***
