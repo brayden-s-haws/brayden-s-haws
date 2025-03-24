@@ -4,11 +4,8 @@ Started my career wanting to make healthcare better. Fell in love with technolog
 
 - ⚒️ I’m currently building: [Utah Product Guild](https://utahproductguild.com)
 - 🔍 I’m currently learning: python, generative ai, and machine learning
-- 💬 Ask me about: ai, data, and startups
+- 💬 Ask me about: ai, data, and product management
 - ⏪ Previously: University of Utah Health, Steward Health Care, Lucerna Health, Hospital IQ, Grow/Epicor
-- 📫 How to reach me: haws@hey.com
-- 🗞️ Blog: https://world.hey.com/haws
-- 🪚 Other stuff: https://braydenhaws.com
 - 🍔 Fun fact: I once ate breakfast with Cheech Marin at an airport Burger King
 
 ***
