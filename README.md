@@ -12,10 +12,10 @@ Started my career wanting to make healthcare better. Fell in love with technolog
 
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Survival of the Product Manager](https://world.hey.com/haws/the-survival-of-the-product-manager-36b46abf)
 - [What Makes You Unique?](https://world.hey.com/haws/what-makes-you-unique-e087e98c)
 - [The Skill for the AI Age: Be Generative](https://world.hey.com/haws/the-skill-for-the-ai-age-be-generative-85ecdb1b)
 - [Notes: Platform Ecosystems and Generative AI](https://world.hey.com/haws/notes-platform-ecosystems-and-generative-ai-949643cf)
-- [The Power of Product Management Logs](https://world.hey.com/haws/the-power-of-product-management-logs-90074b85)
 <!-- BLOG-POST-LIST:END -->
 
 ***
