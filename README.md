@@ -3,7 +3,7 @@ Hey everyone 👋
 Started my career wanting to make healthcare better. Fell in love with technology. Now I do product. 
 
 - ⚒️ I’m currently building: [Utah Product Guild](https://utahproductguild.com)
-- 🔍 I’m currently learning: python, Django, and AI Evals
+- 🔍 I’m currently learning: python, Fullstack Development, and AI Evals
 - 💬 Ask me about: product management, platforms, and AI
 - ⏪ Previously: University of Utah Health, Steward Health Care, Lucerna Health, Hospital IQ, Grow/Epicor
 - 🍔 Fun fact: I once ate breakfast with Cheech Marin at an airport Burger King
