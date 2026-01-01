@@ -28,6 +28,7 @@ Latest Blog Posts:
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=2x&id=xSkewUSqtErH&format=png" alt="pandas" width="40" height="40"/> </a>
   <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" alt="streamlit" width="40" height="40"/> </a>
+  <a href="https://tc39.es" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Javascript" width="40" height="40"/> </a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=12239&format=png&color=000000" alt="html" width="40" height="40"/> </a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=38986&format=png&color=000000" alt="css" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="Bootstrap CSS" width="40" height="40"/> </a>
