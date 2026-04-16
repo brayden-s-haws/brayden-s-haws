@@ -22,8 +22,7 @@ Latest Blog Posts:
 
 <p align="left">Languages and Tools:</p>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=qc3TyHJPxEoH&format=png&color=000000" alt="Django" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=qc3TyHJPxEoH&format=png&color=000000" alt="Django" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=64&id=ewGOClUtmFX4&format=png" alt="flask" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=2x&id=xSkewUSqtErH&format=png" alt="pandas" width="40" height="40"/> </a>
   <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="jupyter" width="40" height="40"/> </a>
